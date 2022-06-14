@@ -1,0 +1,41 @@
+<!-- Seccion: Acerca de mi
+    Marcos Moreira 
+Usamos la etiqueta div con un atributo que va a tener el id de la etiqueta <a> creada anteriormente <a href="#about">Acerca de mí</a>-->
+
+    <div id="about">
+        <div class="contenedor">
+            <h2>Acerca de mí</h2>
+            <!-- Aqui a la etiqueta div le damos un atributo de cajas en bloque lo cual le dara un formato de salto de linea al bloque de informacion -->
+            <div class="box-info1">
+                <h4>Formación Académica</h4>
+                <!-- Añadimos la etiqueta hr para crear una linea de separacion entre cada seccion de Acerca de mi para dar un mejor entendimiento a la informacion de la pagina -->
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A tincidunt habitant amet eleifend commodo convallis tellus. Gravida scelerisque id sagittis suspendisse vestibulum congue in. Quam rutrum cursus enim ut. Lacus, ac facilisis porttitor mauris enim ac. Nibh volutpat, facilisis enim libero phasellus at a. Sodales odio ac tincidunt auctor. Ut at  facilisis ornare. Ut aenean ut eget quam. Pulvinar eu, convallis sit mi iaculis tempus tempor, arcu sagittis. Donec vitae morbi faucibus ac fermentum id tortor. Sit sit magna scelerisque proin. Tellus nunc, egestas morbi nunc dictum ipsum velit. Varius erat erat quisque ut convallis mauris vitae sit integer. Aliquam elementum in tellus aliquet gravida lectus.</p>
+            </div>
+            <div class="box-info2">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A tincidunt habitant amet eleifend commodo convallis tellus. Gravida scelerisque id sagittis suspendisse vestibulum congue in. Quam rutrum cursus enim ut. Lacus, ac facilisis porttitor mauris enim ac. Nibh volutpat, facilisis enim libero phasellus at a. Sodales odio ac tincidunt auctor. Ut at  facilisis ornare. Ut aenean ut eget quam. Pulvinar eu, convallis sit mi iaculis tempus tempor, arcu sagittis. Donec vitae morbi faucibus ac fermentum id tortor. Sit sit magna scelerisque proin. Tellus nunc, egestas morbi nunc dictum ipsum velit. Varius erat erat quisque ut convallis mauris vitae sit integer. Aliquam elementum in tellus aliquet gravida lectus.</p>
+                <hr>
+                <h4>Hobbies</h4>
+            </div>
+            <div class="box-info1">
+                <h4>Residencia</h4>
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A tincidunt habitant amet eleifend commodo convallis tellus. Gravida scelerisque id sagittis suspendisse vestibulum congue in. Quam rutrum cursus enim ut. Lacus, ac facilisis porttitor mauris enim ac. Nibh volutpat, facilisis enim libero phasellus at a. Sodales odio ac tincidunt auctor. Ut at  facilisis ornare. Ut aenean ut eget quam. Pulvinar eu, convallis sit mi iaculis tempus tempor, arcu sagittis. Donec vitae morbi faucibus ac fermentum id tortor. Sit sit magna scelerisque proin. Tellus nunc, egestas morbi nunc dictum ipsum velit. Varius erat erat quisque ut convallis mauris vitae sit integer. Aliquam elementum in tellus aliquet gravida lectus.</p>
+            </div>
+            <div class="box-info2">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. A tincidunt habitant amet eleifend commodo convallis tellus. Gravida scelerisque id sagittis suspendisse vestibulum congue in. Quam rutrum cursus enim ut. Lacus, ac facilisis porttitor mauris enim ac. Nibh volutpat, facilisis enim libero phasellus at a. Sodales odio ac tincidunt auctor. Ut at  facilisis ornare. Ut aenean ut eget quam. Pulvinar eu, convallis sit mi iaculis tempus tempor, arcu sagittis. Donec vitae morbi faucibus ac fermentum id tortor. Sit sit magna scelerisque proin. Tellus nunc, egestas morbi nunc dictum ipsum velit. Varius erat erat quisque ut convallis mauris vitae sit integer. Aliquam elementum in tellus aliquet gravida lectus.</p>
+                <hr>
+                <h4>Futuro</h4>
+            </div>
+        </div>
+    </div>
+
+    <div id="projects">
+        <div class="contenedor">
+            <h2>Proyectos</h2>
+            <!-- Aqui ponemos la etiqeuta i para añadir emojis -->
+            <i class="iconify" data-icon="healthicons:factory-worker"></i>
+            <p>Trabajando en esta sección ...</p>
+        </div>
+    </div>
+<!-- Fin  de la Seccion: Acerca de mi, Marcos Moreira -->
